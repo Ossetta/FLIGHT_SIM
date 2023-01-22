@@ -2,7 +2,7 @@ import React from 'react'
 import {useEffect} from 'react'
 import Granim from "granim"
 import styles from './styles.css'
-
+//testing
 const Background = () => {
 
     {useEffect (() => {
