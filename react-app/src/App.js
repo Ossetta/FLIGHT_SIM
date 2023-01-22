@@ -1,5 +1,5 @@
 import './App.css';
-import Background from './assets/Background';
+import Background from './components/Background';
 import Map from './components/Map';
 
 function App() {
