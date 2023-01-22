@@ -3,8 +3,6 @@ import Background from './assets/Background';
 
 function App() {
 
-  
- 
   return (
   <div className="Document">
     <Background/>
