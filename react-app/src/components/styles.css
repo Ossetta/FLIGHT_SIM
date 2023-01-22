@@ -33,8 +33,25 @@
     align-items: left;
     position: absolute;
     top: 0;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     
 }
+
+.table1 thead tr{
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.table1 tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
 
 .table2{
     display: flex;
@@ -45,8 +62,3 @@
     right: 0;
 }
 
-.table1 thead tr{
-    background-color: #009879;
-    color: #ffffff;
-    text-align: left;
-}
