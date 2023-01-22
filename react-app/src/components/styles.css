@@ -44,3 +44,9 @@
     top: 0;
     right: 0;
 }
+
+.table1 thead tr{
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
