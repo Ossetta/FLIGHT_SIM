@@ -1,10 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Background from './assets/Background';
 
 function App() {
+
+  
+ 
   return (
-    <div className="Document">
-      
+  <div className="Document">
+    <Background/>
     </div>
   );
 }
