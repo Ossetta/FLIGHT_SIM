@@ -1,0 +1,32 @@
+canvas{
+    background-image: url("./map.webp");
+    background-size: 640px 480px;
+    background-color: gray;
+    background-repeat: no-repeat;
+    /*1172 × 980*/
+    height: 480px;
+    width: 640px;
+    border: 1px solid black;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+img{
+    height: 480px;
+    width: 640px;
+}
+#one{
+    position: absolute;
+    left: 40px;
+    bottom: 380px;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-image: url("./airport.png");
+    background-size: 25px 25px;
+    /*background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;*/
+  }
