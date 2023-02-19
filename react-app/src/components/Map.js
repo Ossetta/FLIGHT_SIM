@@ -18,6 +18,7 @@ const Map = () => {
 }
 
 export default Map
+// Path: react-app/src/components/Map.css
 
 
 
